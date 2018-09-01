@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+		<title>Noticias de Basquet</title>
+		<atom:link href="direccion xml en rawgit" rel="self" type="application/rss+xml"/>
+		<link>direccion html indice</link>
+		<description>Página de noticias de basquet.</description>
+		<language>es-es</language>
+		<category>Noticias</category>
+		<category>ACB/NBA</category>
+		<copyright>2019 Xavi Far. All rights reserved.</copyright>
+		<lastBuildDate>Tue, 06 May 2019 18:23:11 GMT</lastBuildDate>
+		<pubDate>Tue, 06 May 2019 18:23:11 GMT</pubDate>
+		<managingEditor>xavifarmarti@hotmail.com (Xavi Far)</managingEditor>
+		<webMaster>xavifarmarti@hotmail.com (Xavi Far)</webMaster>
+
+		<image>
+			<url>direccion rawgit logos acb y nba</url>
+			<title>Noticias de Basquet</title>
+			<link>direccion rawgit del indice html</link>
+		</image>
+
+		<item>
+			<guid isPermaLink="false">Noticia_1</guid>
+			<title>EPI-NAVARRO, un relevo entre leyendas</title>
+			<link>direccion rawgit noticia 1 html</link>
+			<description><![CDATA[ <p>“Es un jugador y una generación maravillosa”, elogia el exbaloncestista
+					al actual capitán de la selección, Juan Carlos Navarro, que este martes, 
+					en el amistoso ante Venezuela, le superará con 240 internacionalidades.
+					<br>Brillantez, perseverancia, talento y una dedicación absoluta al baloncesto
+					caracteriza a estos dos Géminis. Epi nació el 12 de junio de 1959; Navarro, 
+					el 13 de junio, pero 21 años después. Entre ambos abarcan media vida del 
+					baloncesto español y los dos, aleros, han jugado siempre en el Barcelona,
+					excepto el año de Navarro en la NBA con Memphis.</p> ]]></description>
+			<category>ACB</category>
+			<category>NACIONAL</category>
+		</item>
+		
+		<item>
+			<guid isPermaLink="false">Noticia_2</guid>
+			<title>LeBron James o Michael Jordan, ¿Quién es el mejor?</title>
+			<link>direccion rawgit html noticia 2</link>
+			<description><![CDATA[ <p>Si en el fútbol el debate por el mejor jugador de la historia se reparte,
+					sobre todo, en tres nombres (Pelé, Maradona o Messi), en el baloncesto casi
+					no había polémica al respecto hasta hace poco. Michael Jordan era lo que se
+					respondía, sin asomo de dudas, al que preguntarse por el máximo representante
+					de este deporte. Sin embargo en las últimas temporadas un nombre se ha asomado
+					con más y más fuerza: LeBron James.</p> ]]></description>
+			<category>NBA</category>
+			<category>INTERNACIONAL</category>
+		</item>
+		
+		<item>
+			<guid isPermaLink="false">Noticia_3</guid>
+			<title>PAU GASOL podría ser traspasado a los Sixers en la operación de salida de Kawhi Leonard</title>
+			<link>direccion rawgit noticia 3 html</link>
+			<description><![CDATA[ <p>Pau Gasol podría acabar jugando la próxima temporada en los Sixers junto a Joel Embiid y 
+					Ben Simmons si finalmente los San Antonio Spurs traspasan a Kawhi Leonard a Philadelphia. 
+					Esta bomba en la NBA ha sido destapada por el prestigioso periodista Chris Sheridan, quien 
+					asegura que ninguna de las fuentes solventes que ha consultado al respecto le haya dicho que
+					eso no es cierto. "Y donde hay humo hay fuego", asegura el periodista.</p> ]]></description>
+			<category>NBA</category>
+			<category>INTERNACIONAL</category>
+		</item>
+	</channel>
