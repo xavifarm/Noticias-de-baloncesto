@@ -1,0 +1,32 @@
+.navbar {
+	border-bottom: 4px solid red;
+	background-color: lightgrey;
+}
+
+header {
+	border-bottom: 4px solid red;
+	background-color: lightgrey;
+}
+
+button {
+	background-color: #85929e;
+	border-right-color: lightgrey;
+}
+
+img {
+	display: block;
+	margin: auto;
+	border-radius:15px;
+}
+
+section {
+	text-align: justify;
+	margin: auto;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
