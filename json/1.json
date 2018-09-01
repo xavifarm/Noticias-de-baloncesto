@@ -1,32 +1,53 @@
-[{"title": "EPI-NAVARRO, un relevo entre leyendas",
-    "imagen": "img/epi y navarro.jpg",
-    "date" :"XFM | 28/04/2019 - 13:16 p.m.",
-    "body" : "“Es un jugador y una generación maravillosa”, elogia el 
-	exbaloncestista al actual capitán de la selección, Juan Carlos Navarro,
-	que este martes, en el amistoso ante Venezuela, le superará con 240 
-	internacionalidades.contrabando."
-},
-{"title": "LeBron James o Michael Jordan,¿Quién es el mejor?",
-    "imagen": "img/mj y lj.jpg",
-    "date" :"XFM | 08/04/2019 - 19:43 p.m.",
-    "body" : "Si en el fútbol el debate por el mejor jugador de la historia
-	se reparte, sobre todo, en tres nombres (Pelé, Maradona o Messi), en el
-	baloncesto casi no había polémica al respecto hasta hace poco. Michael 
-	Jordan era lo que se respondía, sin asomo de dudas, al que preguntarse 
-	por el máximo representante de este deporte. Sin embargo en las últimas 
-	temporadas un nombre se ha asomado con más y más fuerza: LeBron James.a 
-	como coordinador del recién creado Observatorio contra las Pseudociencias, 
-	Pseudoterapias, Intrusismo y Sectas Sanitarias que acaba de lanzar la Organización 
-	Médica Colegial (OMC), que representa a los casi "
-},
-{"title": "PAU GASOL podría ser traspasado a los Sixers en la operación de salida de Kawhi Leonard",
-    "imagen": "img/pau gasol.jpg",
-    "date" :"XFM | 03/05/2019 - 09:11 a.m.",
-    "body" : "Pau Gasol podría acabar jugando la próxima temporada en los Sixers 
-	junto a Joel Embiid y Ben Simmons si finalmente los San Antonio Spurs traspasan 
-	a Kawhi Leonard a Philadelphia. Esta bomba en la NBA ha sido destapada por el 
-	prestigioso periodista Chris Sheridan, quien asegura que ninguna de las fuentes 
-	solventes que ha consultado al respecto le haya dicho que eso no es cierto. ""Y 
-	donde hay humo hay fuego", asegura el periodista."
-}
-] 
+[
+
+	{
+		"id":"	Noticia_4",
+		"nav_element":"Noticia_4",
+		"titulo":"Kevin Love, Paul Pierce...cuando la ansiedad y la depresión golpean la NBA",
+		"desc":"Las enfermedades mentales en la NBA siguen siendo un grueso 
+			tabú que aún hoy en día es difícil normalizar. Como en su día pudiera 
+			ser la homosexualidad hasta que temerarios —valientes— como John Amaechi
+			o Jason Collins tiraran la puerta abajo, el desasosiego psíquico está muy
+			presente en la NBA (“casi uno de cada dos jugadores podría sufrirlo”, dice
+			un técnico letrado en la materia); y al mismo tiempo es un tema incómodo,
+			desagradable y sobre el que resulta atractivo pasar de puntillas antes de
+			introducir el bisturí para tocar fibra. Más si se está implicado en uno 
+			de los actores principales de la competición. Así fue hasta ahora, con 
+			infinidad de profesionales a lo largo de la historia padeciendo los golpes
+			de una enfermedad invisible que destruye rendimiento, primero, después 
+			tiempo privado y más tarde carreras y vidas. Y sobre el tema ha querido 
+			alzar la voz Kevin Love, jugador de los Cleveland Cavaliers que admitió 
+			haber atravesado duros reveses por culpa de la ansiedad y la depresión.",
+		"datetime":"XFM | 29/04/2019 - 18:34 p.m.",
+		"imgmid":"img/Kevin_love.jpg",
+		"imgbig":"a"
+	},
+
+	{
+		"id":"Noticia_5",
+		"nav_element":"Noticia_5",
+		"titulo":"Los mejor pagados de la NBA, versión 2018",
+		"desc":"Aunque el mercado de la NBA sigue activo, no parece que a estas alturas la 
+			agencia libre vaya a dar grandes bombazos, por lo que llega el momento de empezar
+			a analizar sus consecuencias a nivel económico. Para ello, qué mejor que echar un 
+			vistazo a la lista de los 50 jugadores mejor pagados de la temporada 2018-19.",
+		"datetime":"XFM | 01/05/2019 - 12:21 p.m.",
+		"imgmid":"https://rawgit.com/xavifarm/Noticias-de-baloncesto/master/img/pagados.jpg",
+		"imgbig":"b"
+	},
+
+	{
+		"id":"Noticia_6",
+		"nav_element":"Noticia_6",
+		"titulo":"Nowitzki podría seguir en la 2019-20:'Dejo la puerta abierta'",
+		"desc":"Dirk Nowitzki, que cumplió 40 años el pasado mes de junio, no pone fecha a su 
+			despedida. El alemán de los Dallas Mavericks, que se convertirá en histórico esta 
+			temporada al jugar su 21ª temporada en la misma franquicia (el récord actual lo 
+			comparte con Kobe Bryant, 20 años en el mismo equipo), renovó este verano con la 
+			franquicia texana y tomará una decisión a final de curso..",
+		"datetime":"XFM | 30/04/2019 - 10:03 a.m.",
+		"imgmid":"https://rawgit.com/xavifarm/Noticias-de-baloncesto/master/img/nowitzki.jpg",
+		"imgbig":"c"
+	}
+
+]
