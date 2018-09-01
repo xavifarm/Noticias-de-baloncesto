@@ -1,26 +1,46 @@
-[{"title": "Los mejor pagados de la NBA, versión 2018",
-    "imagen": "https://rawgit.com/xavifarm/Noticias-de-baloncesto/master/img/pagados.jpg",
-    "date" : "XFM | 01/05/2019 - 12:21 p.m.",
-    "body" : "Aunque el mercado de la NBA sigue activo, no parece que a estas alturas la 
-			agencia libre vaya a dar grandes bombazos, por lo que llega el momento de empezar
-			a analizar sus consecuencias a nivel económico. Para ello, qué mejor que echar un 
-			vistazo a la lista de los 50 jugadores mejor pagados de la temporada 2018-19."
-},
-{"title": "Nowitzki podría seguir en la 2019-20:"Dejo la puerta abierta"",
-    "imagen": "https://rawgit.com/xavifarm/Noticias-de-baloncesto/master/img/nowitzki.jpg",
-    "date" :"XFM | 30/04/2019 - 10:03 a.m.",
-    "body" : "Dirk Nowitzki, que cumplió 40 años el pasado mes de junio, no pone fecha a su 
-			despedida. El alemán de los Dallas Mavericks, que se convertirá en histórico esta 
-			temporada al jugar su 21ª temporada en la misma franquicia (el récord actual lo 
-			comparte con Kobe Bryant, 20 años en el mismo equipo), renovó este verano con la 
-			franquicia texana y tomará una decisión a final de curso."
-},
-{"title": "Tony Parker se despide de los Spurs: "Gracias por confiar en mi"",
-    "imagen": "https://rawgit.com/xavifarm/Noticias-de-baloncesto/master/img/parker.jpg",
-    "date" :"XFM | 06/05/2019 - 02:09 a.m.",
-    "body" : "Tony Parker ha dejado los Spurs tras casi dos décadas en el equipo, un recorrido 
+[
+   {
+      "id":"Noticia_7",
+      "nav_element":"Noticia_7",
+      "titulo":"Tony Parker se despide de los Spurs: 'Gracias por confiar en mi'",
+      "desc":"Tony Parker ha dejado los Spurs tras casi dos décadas en el equipo, un recorrido 
 			mítico por una de las franquicias más dominadoras si no la que más del siglo XXI en 
 			la NBA. No quería dejar ningún cabo suelto, tampoco la de dedicar una carta a los 
-			aficionados de San Antonio a los que ahora deja un tanto huérfanos."
-}
+			aficionados de San Antonio a los que ahora deja un tanto huérfanos.",
+      "datetime":"XFM | 06/05/2019 - 02:09 a.m.",
+      "imgmid":"https://rawgit.com/xavifarm/Noticias-de-baloncesto/master/img/parker.jpg",
+      "imgbig":"a"
+   },
+
+   {
+      "id":"Noticia_8",
+      "nav_element":"Noticia_8",
+      "titulo":"Carta de despedida de Manu Ginóbili: 'Jugué hasta que tuve ganas, no me quedé con ganas de nada'",
+      "desc":"Apenas 24 horas después de que Manu Ginóbili anunciara su divorcio con el profesionalismo, 
+			el mundo del baloncesto sigue honrando su memoria deportiva. Incesantes muestras de cariño y respeto
+			por parte de aficionados, rivales y compañeros, además de recuerdos de toda clase de cuando el ’20’
+			de San Antonio Spurs era joven, de cuando lo fue menos y ya, después, como veterano.
+			En vista de la tormenta de cariño recibido a raíz de su anuncio de adiós, Ginóbili ha aprovechado la 
+			ocasión para despedirse de todos los estamentos del básket con una carta escrita en el diario argentino
+			'La Nación'. En ella explica los motivos de su adiós 
+			profesional a los 41 años.",
+      "datetime":"XFM | 28/04/19 - 18:38 p.m.",
+      "imgmid":"img/manu_ginobili.jpg",
+      "imgbig":"b"
+   },
+
+   {
+      "id":"Noticia_9",
+      "nav_element":"Noticia_9",
+      "titulo":"Kobe: 'Cero por ciento posibilidades de que vuelva a jugar'",
+      "desc":"Kobe Bryant, que hace relativamente pocos días cumplía los 40 años de edad, ha reiterado su deseo 
+			de no volver a las pistas de baloncesto a pesar de los rumores que le situaban en la competición Big3, e 
+			incluso un posible regreso a los Lakers junto a su nueva estrella LeBron James.
+			'Ahora mismo hay cero por ciento de posibilidades de que vuelva a jugar', destacó en el programa de Rich Eisen.",
+      "datetime":"XFM | 03/05/19 - 21:08 p.m.",
+      "imgmid":"img/kobe.jpg",
+      "imgbig":"c"
+
+   }
+
 ]
